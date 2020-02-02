@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans&display=swap");
+
+:root {
+  --success-color: #2ecc71;
+  --error-color: #e74c3c;
+}
+/* 
+Bacgrouund: #f9fafb
+Form Background: white
+Form Label && Form Input Focus: #777
+Form input border: #f0f0f0
+Button: #3498db
+*/
+
+* {
+  box-sizing: border-box;
+}
